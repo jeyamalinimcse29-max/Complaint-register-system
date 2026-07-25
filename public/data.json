@@ -1,0 +1,454 @@
+{
+  "records": [
+    {
+      "record_id": "REC001",
+      "block_id": "BLOCK-A",
+      "location": "Market Square",
+      "cleaning_date": "2026-07-01",
+      "cleaner": "Rajesh Kumar",
+      "complaint_text": "Broken faucet in sink",
+      "complaint_date": "2026-07-02",
+      "status": "resolved"
+    },
+    {
+      "record_id": "REC002",
+      "block_id": "BLOCK-A",
+      "location": "Market Square",
+      "cleaning_date": "2026-07-05",
+      "cleaner": "Rajesh Kumar",
+      "complaint_text": null,
+      "complaint_date": null,
+      "status": "cleaned"
+    },
+    {
+      "record_id": "REC003",
+      "block_id": "BLOCK-B",
+      "location": "Railway Station",
+      "cleaning_date": "2026-07-03",
+      "cleaner": "Suresh Patel",
+      "complaint_text": "Overflowing waste bin",
+      "complaint_date": "2026-07-03",
+      "status": "pending"
+    },
+    {
+      "record_id": "REC004",
+      "block_id": "BLOCK-B",
+      "location": "Railway Station",
+      "cleaning_date": "2026-07-07",
+      "cleaner": "Suresh Patel",
+      "complaint_text": "No soap in dispenser",
+      "complaint_date": "2026-07-08",
+      "status": "pending"
+    },
+    {
+      "record_id": "REC005",
+      "block_id": "BLOCK-C",
+      "location": "City Park",
+      "cleaning_date": "2026-06-28",
+      "cleaner": "Mohan Singh",
+      "complaint_text": "Wet floor with no sign",
+      "complaint_date": "2026-06-29",
+      "status": "resolved"
+    },
+    {
+      "record_id": "REC006",
+      "block_id": "BLOCK-C",
+      "location": "City Park",
+      "cleaning_date": "2026-07-02",
+      "cleaner": "Mohan Singh",
+      "complaint_text": null,
+      "complaint_date": null,
+      "status": "cleaned"
+    },
+    {
+      "record_id": "REC007",
+      "block_id": "BLOCK-D",
+      "location": "Bus Terminal",
+      "cleaning_date": "2026-07-04",
+      "cleaner": "Rajesh Kumar",
+      "complaint_text": "Clogged toilet",
+      "complaint_date": "2026-07-04",
+      "status": "pending"
+    },
+    {
+      "record_id": "REC008",
+      "block_id": "BLOCK-D",
+      "location": "Bus Terminal",
+      "cleaning_date": "2026-07-08",
+      "cleaner": "Rajesh Kumar",
+      "complaint_text": "Bad odor",
+      "complaint_date": "2026-07-09",
+      "status": "pending"
+    },
+    {
+      "record_id": "REC009",
+      "block_id": "BLOCK-A",
+      "location": "Market Square",
+      "cleaning_date": "2026-07-10",
+      "cleaner": "Rajesh Kumar",
+      "complaint_text": "Lock broken on door",
+      "complaint_date": "2026-07-11",
+      "status": "pending"
+    },
+    {
+      "record_id": "REC010",
+      "block_id": "BLOCK-E",
+      "location": "Hospital Road",
+      "cleaning_date": "2026-07-01",
+      "cleaner": "Suresh Patel",
+      "complaint_text": "No water supply",
+      "complaint_date": "2026-07-02",
+      "status": "resolved"
+    },
+    {
+      "record_id": "REC011",
+      "block_id": "BLOCK-E",
+      "location": "Hospital Road",
+      "cleaning_date": "2026-07-06",
+      "cleaner": "Suresh Patel",
+      "complaint_text": null,
+      "complaint_date": null,
+      "status": "cleaned"
+    },
+    {
+      "record_id": "REC012",
+      "block_id": "BLOCK-F",
+      "location": "College Gate",
+      "cleaning_date": "2026-06-30",
+      "cleaner": "Mohan Singh",
+      "complaint_text": "Graffiti on walls",
+      "complaint_date": "2026-07-01",
+      "status": "resolved"
+    },
+    {
+      "record_id": "REC013",
+      "block_id": "BLOCK-F",
+      "location": "College Gate",
+      "cleaning_date": "2026-07-05",
+      "cleaner": "Mohan Singh",
+      "complaint_text": "Light not working",
+      "complaint_date": "2026-07-06",
+      "status": "pending"
+    },
+    {
+      "record_id": "REC014",
+      "block_id": "BLOCK-G",
+      "location": "Shopping Mall",
+      "cleaning_date": "2026-07-03",
+      "cleaner": "Rajesh Kumar",
+      "complaint_text": "Paper towels missing",
+      "complaint_date": "2026-07-04",
+      "status": "resolved"
+    },
+    {
+      "record_id": "REC015",
+      "block_id": "BLOCK-G",
+      "location": "Shopping Mall",
+      "cleaning_date": "2026-07-09",
+      "cleaner": "Rajesh Kumar",
+      "complaint_text": null,
+      "complaint_date": null,
+      "status": "cleaned"
+    },
+    {
+      "record_id": "REC016",
+      "block_id": "BLOCK-H",
+      "location": "Stadium Area",
+      "cleaning_date": "2026-07-02",
+      "cleaner": "Suresh Patel",
+      "complaint_text": "Door hinge loose",
+      "complaint_date": "2026-07-03",
+      "status": "pending"
+    },
+    {
+      "record_id": "REC017",
+      "block_id": "BLOCK-H",
+      "location": "Stadium Area",
+      "cleaning_date": "2026-07-07",
+      "cleaner": "Suresh Patel",
+      "complaint_text": "Unpleasant smell",
+      "complaint_date": "2026-07-08",
+      "status": "pending"
+    },
+    {
+      "record_id": "REC018",
+      "block_id": "BLOCK-I",
+      "location": "Park Avenue",
+      "cleaning_date": "2026-07-04",
+      "cleaner": "Mohan Singh",
+      "complaint_text": "Overflowing trash",
+      "complaint_date": "2026-07-05",
+      "status": "pending"
+    },
+    {
+      "record_id": "REC019",
+      "block_id": "BLOCK-I",
+      "location": "Park Avenue",
+      "cleaning_date": "2026-07-10",
+      "cleaner": "Mohan Singh",
+      "complaint_text": null,
+      "complaint_date": null,
+      "status": "cleaned"
+    },
+    {
+      "record_id": "REC020",
+      "block_id": "BLOCK-J",
+      "location": "Town Square",
+      "cleaning_date": "2026-07-01",
+      "cleaner": "Rajesh Kumar",
+      "complaint_text": "Tiles cracked",
+      "complaint_date": "2026-07-02",
+      "status": "resolved"
+    },
+    {
+      "record_id": "REC021",
+      "block_id": "BLOCK-J",
+      "location": "Town Square",
+      "cleaning_date": "2026-07-06",
+      "cleaner": "Rajesh Kumar",
+      "complaint_text": "Mirror broken",
+      "complaint_date": "2026-07-07",
+      "status": "pending"
+    },
+    {
+      "record_id": "REC022",
+      "block_id": "BLOCK-K",
+      "location": "Library Road",
+      "cleaning_date": "2026-07-03",
+      "cleaner": "Suresh Patel",
+      "complaint_text": "No toilet paper",
+      "complaint_date": "2026-07-04",
+      "status": "resolved"
+    },
+    {
+      "record_id": "REC023",
+      "block_id": "BLOCK-K",
+      "location": "Library Road",
+      "cleaning_date": "2026-07-08",
+      "cleaner": "Suresh Patel",
+      "complaint_text": null,
+      "complaint_date": null,
+      "status": "cleaned"
+    },
+    {
+      "record_id": "REC024",
+      "block_id": "BLOCK-L",
+      "location": "Temple Street",
+      "cleaning_date": "2026-07-02",
+      "cleaner": "Mohan Singh",
+      "complaint_text": "Floor drain blocked",
+      "complaint_date": "2026-07-03",
+      "status": "pending"
+    },
+    {
+      "record_id": "REC025",
+      "block_id": "BLOCK-L",
+      "location": "Temple Street",
+      "cleaning_date": "2026-07-07",
+      "cleaner": "Mohan Singh",
+      "complaint_text": "Faucet dripping",
+      "complaint_date": "2026-07-08",
+      "status": "pending"
+    },
+    {
+      "record_id": "REC026",
+      "block_id": "BLOCK-M",
+      "location": "Gymkhana Club",
+      "cleaning_date": "2026-07-04",
+      "cleaner": "Rajesh Kumar",
+      "complaint_text": "Light bulb fused",
+      "complaint_date": "2026-07-05",
+      "status": "resolved"
+    },
+    {
+      "record_id": "REC027",
+      "block_id": "BLOCK-M",
+      "location": "Gymkhana Club",
+      "cleaning_date": "2026-07-09",
+      "cleaner": "Rajesh Kumar",
+      "complaint_text": "Hand dryer not working",
+      "complaint_date": "2026-07-10",
+      "status": "pending"
+    },
+    {
+      "record_id": "REC028",
+      "block_id": "BLOCK-N",
+      "location": "School Road",
+      "cleaning_date": "2026-07-01",
+      "cleaner": "Suresh Patel",
+      "complaint_text": "Water leak on floor",
+      "complaint_date": "2026-07-02",
+      "status": "resolved"
+    },
+    {
+      "record_id": "REC029",
+      "block_id": "BLOCK-N",
+      "location": "School Road",
+      "cleaning_date": "2026-07-06",
+      "cleaner": "Suresh Patel",
+      "complaint_text": null,
+      "complaint_date": null,
+      "status": "cleaned"
+    },
+    {
+      "record_id": "REC030",
+      "block_id": "BLOCK-O",
+      "location": "Market Road",
+      "cleaning_date": "2026-07-03",
+      "cleaner": "Mohan Singh",
+      "complaint_text": "Seat cover torn",
+      "complaint_date": "2026-07-04",
+      "status": "pending"
+    },
+    {
+      "record_id": "REC031",
+      "block_id": "BLOCK-O",
+      "location": "Market Road",
+      "cleaning_date": "2026-07-08",
+      "cleaner": "Mohan Singh",
+      "complaint_text": "No air freshener",
+      "complaint_date": "2026-07-09",
+      "status": "pending"
+    },
+    {
+      "record_id": "REC032",
+      "block_id": "BLOCK-P",
+      "location": "Complex",
+      "cleaning_date": "2026-07-02",
+      "cleaner": "Rajesh Kumar",
+      "complaint_text": "Switch not working",
+      "complaint_date": "2026-07-03",
+      "status": "resolved"
+    },
+    {
+      "record_id": "REC033",
+      "block_id": "BLOCK-P",
+      "location": "Complex",
+      "cleaning_date": "2026-07-07",
+      "cleaner": "Rajesh Kumar",
+      "complaint_text": null,
+      "complaint_date": null,
+      "status": "cleaned"
+    },
+    {
+      "record_id": "REC034",
+      "block_id": "BLOCK-Q",
+      "location": "Station Road",
+      "cleaning_date": "2026-07-04",
+      "cleaner": "Suresh Patel",
+      "complaint_text": "Dirty mirror",
+      "complaint_date": "2026-07-05",
+      "status": "pending"
+    },
+    {
+      "record_id": "REC035",
+      "block_id": "BLOCK-Q",
+      "location": "Station Road",
+      "cleaning_date": "2026-07-09",
+      "cleaner": "Suresh Patel",
+      "complaint_text": "Stain on wall",
+      "complaint_date": "2026-07-10",
+      "status": "pending"
+    },
+    {
+      "record_id": "REC036",
+      "block_id": "BLOCK-R",
+      "location": "Garden Area",
+      "cleaning_date": "2026-07-01",
+      "cleaner": "Mohan Singh",
+      "complaint_text": "Foot pedal broken",
+      "complaint_date": "2026-07-02",
+      "status": "resolved"
+    },
+    {
+      "record_id": "REC037",
+      "block_id": "BLOCK-R",
+      "location": "Garden Area",
+      "cleaning_date": "2026-07-06",
+      "cleaner": "Mohan Singh",
+      "complaint_text": "No waste bin",
+      "complaint_date": "2026-07-07",
+      "status": "pending"
+    },
+    {
+      "record_id": "REC038",
+      "block_id": "BLOCK-S",
+      "location": "Theater Road",
+      "cleaning_date": "2026-07-03",
+      "cleaner": "Rajesh Kumar",
+      "complaint_text": "Water stains",
+      "complaint_date": "2026-07-04",
+      "status": "pending"
+    },
+    {
+      "record_id": "REC039",
+      "block_id": "BLOCK-S",
+      "location": "Theater Road",
+      "cleaning_date": "2026-07-08",
+      "cleaner": "Rajesh Kumar",
+      "complaint_text": null,
+      "complaint_date": null,
+      "status": "cleaned"
+    },
+    {
+      "record_id": "REC040",
+      "block_id": "BLOCK-T",
+      "location": "Residential Area",
+      "cleaning_date": "2026-07-02",
+      "cleaner": "Suresh Patel",
+      "complaint_text": "Rust on pipes",
+      "complaint_date": "2026-07-03",
+      "status": "resolved"
+    },
+    {
+      "record_id": "REC041",
+      "block_id": "BLOCK-T",
+      "location": "Residential Area",
+      "cleaning_date": "2026-07-07",
+      "cleaner": "Suresh Patel",
+      "complaint_text": "Paint peeling",
+      "complaint_date": "2026-07-08",
+      "status": "pending"
+    },
+    {
+      "record_id": "REC042",
+      "block_id": "BLOCK-U",
+      "location": "Main Road",
+      "cleaning_date": "2026-07-05",
+      "cleaner": "Mohan Singh",
+      "complaint_text": null,
+      "complaint_date": null,
+      "status": "cleaned"
+    },
+    {
+      "record_id": "REC043",
+      "block_id": "BLOCK-V",
+      "location": "Side Lane",
+      "cleaning_date": null,
+      "cleaner": "Unknown",
+      "complaint_text": "General uncleanliness",
+      "complaint_date": "2026-07-06",
+      "status": "pending"
+    },
+    {
+      "record_id": "REC044",
+      "block_id": "BLOCK-W",
+      "location": "Corner",
+      "cleaning_date": "2026-07-04",
+      "cleaner": "Rajesh Kumar",
+      "complaint_text": null,
+      "complaint_date": "2026-07-05",
+      "status": "cleaned"
+    }
+  ],
+  "field_definitions": {
+    "record_id": "Unique identifier for each cleaning or complaint record. Format: REC followed by 3 digits.",
+    "block_id": "Identifier for the toilet block. Used to group records by location.",
+    "location": "Name or description of where the toilet block is situated.",
+    "cleaning_date": "Date when the block was cleaned, in YYYY-MM-DD format. May be null if cleaning was not recorded.",
+    "cleaner": "Name of the person who performed the cleaning. May be 'Unknown' if not recorded.",
+    "complaint_text": "Description of the complaint. Null if the record is only a cleaning visit with no complaint.",
+    "complaint_date": "Date when the complaint was received, in YYYY-MM-DD format. Null if no complaint.",
+    "status": "Current status of the record. Values: 'cleaned' (cleaned, no complaint), 'pending' (complaint received, awaiting action), 'resolved' (complaint addressed)."
+  }
+}
