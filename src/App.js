@@ -52,7 +52,7 @@ function App() {
   useEffect(() => {
     const loadData = async () => {
       try {
-        const response = await fetch('/data.json');
+        const response = await fetch(process.env.PUBLIC_URL + '/data.json');
         if (!response.ok) {
           throw new Error('Failed to load data');
         }
