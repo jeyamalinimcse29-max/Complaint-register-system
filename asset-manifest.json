@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Complaint-register-system/static/css/main.e19ab747.css",
+    "main.css": "/Complaint-register-system/static/css/main.edf298c8.css",
     "main.js": "/Complaint-register-system/static/js/main.103321df.js",
     "index.html": "/Complaint-register-system/index.html",
-    "main.e19ab747.css.map": "/Complaint-register-system/static/css/main.e19ab747.css.map",
+    "main.edf298c8.css.map": "/Complaint-register-system/static/css/main.edf298c8.css.map",
     "main.103321df.js.map": "/Complaint-register-system/static/js/main.103321df.js.map"
   },
   "entrypoints": [
-    "static/css/main.e19ab747.css",
+    "static/css/main.edf298c8.css",
     "static/js/main.103321df.js"
   ]
 }
