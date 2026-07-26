@@ -28,9 +28,15 @@ A web-based register that records each cleaning visit and each complaint against
 ![Mobile View](Screenshot%20and%20video/Screenshot%202026-07-26%20164120.png)
 *Responsive layout working on narrow screens*
 
-## Demo Video
+## 🎥 Demo Video
 
-[Watch on YouTube](https://youtu.be/rmdtfHlzYeQ) — Walkthrough of the main screen, search/filter, detail view, dashboard, and mobile responsiveness.
+<p align="center">
+  <a href="https://youtu.be/rmdtfHlzYeQ">
+    <img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"/>
+  </a>
+</p>
+
+Walkthrough of the main screen, search/filter, detail view, dashboard, and mobile responsiveness.
 
 ## Field Definitions
 
